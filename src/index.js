@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import HomeScreen from "./components/HomeScreen.react"; // Adjust the path as needed
+import HomeScreen from "./views/home/homescreen.react";
 
 ReactDOM.render(
   <React.StrictMode>
